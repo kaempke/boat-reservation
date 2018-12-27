@@ -1,6 +1,8 @@
 <?php
 
-namespace integration\de\pliete;
+namespace de\pliete\domain;
+
+use de\pliete\BaseTestCase;
 
 class LakeControllerTest extends BaseTestCase {
     /**
