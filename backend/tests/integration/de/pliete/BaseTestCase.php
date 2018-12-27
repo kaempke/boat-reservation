@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Functional;
+namespace integration\de\pliete;
 
 use Slim\App;
 use Slim\Http\Request;
@@ -75,3 +75,4 @@ class BaseTestCase extends \PHPUnit_Framework_TestCase
         return $response;
     }
 }
+?>
